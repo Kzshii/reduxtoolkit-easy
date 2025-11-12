@@ -1,0 +1,20 @@
+{
+  "name": "react-reduxtoolkit-test",
+  "version": "1.0.0",
+  "description": "Employee Management System with React, Redux Toolkit, and Express",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend && npm start",
+    "start": "npm run start-backend && npm run start-frontend"
+  },
+  "keywords": [
+    "react",
+    "redux-toolkit",
+    "express",
+    "employee-management"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
